@@ -8,6 +8,6 @@
     "coffee-script": "1.12.7",
     "express": "2.4.5",
     "jade": "0.14.2",
-    "socket.io": "0.7.9"
+    "socket.io": "2.3.0"
   }
 }
