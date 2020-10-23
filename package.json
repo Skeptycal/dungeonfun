@@ -6,7 +6,7 @@
   },
   "dependencies": {
     "coffee-script": "1.12.7",
-    "express": "2.4.5",
+    "express": "4.17.1",
     "jade": "0.14.2",
     "socket.io": "0.7.9"
   }
